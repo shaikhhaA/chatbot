@@ -1,9 +1,8 @@
-## AI Chatbot For Academic FAQ
+# AI Chatbot For Academic FAQ
 
-
-## Introduction
  AI Chatbot For Academic FAQ based on natural language processing
-# LIBRARY 
+ 
+## LIBRARY 
 -	NLTK 
 -	IMPORT JSON 
 -	Tensorflow 
