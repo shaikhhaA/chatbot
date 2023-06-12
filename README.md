@@ -7,7 +7,7 @@
 -	IMPORT JSON 
 -	Tensorflow 
 -	CAMeL Tools is suite of Arabic natural language processing tools
--	      Preprocess data with Lemmatizer,tokenize 
+- Preprocess data with Lemmatizer,tokenize 
 -	Import random 
 -	import numpy
 
